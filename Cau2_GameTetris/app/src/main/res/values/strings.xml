@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- basic_information strings -->
+
+	<string name="app_name">Cover</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="thank_you_for_showing_interest_in_the_file_string">Thank you  for  showing interest in  the  file</string>
+	<string name="to_play_tetris_with_this_file__you_must_have_the_figma_tetris_plugin_installed__https___www_figma_com_community_plugin_831000487189051522_figma_tetris___go_onto_the__play__page__and_run_the_plugin_and_have_fun_____string">To play Tetris with this file, you must have the Figma Tetris plugin installed (https://www.figma.com/community/plugin/831000487189051522/Figma-Tetris)Go onto the "Play" page, and run the plugin and have fun .</string>
+	<string name="plugin_and_component_credits__string">Plugin and component credits:</string>
+	<string name="emily_zhong_string"><u>Emily Zhong</u></string>
+</resources>
