@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- hero strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="xin_ch_o_t_i_t_n_nguy_n_quang___t_hi_n__ang_h_c_t_i_tr__ng___i_h_c_nha_trang__l_p_k63_mmt__string">Xin cho ti tn Nguyn Quang t hin ang hc ti trng i Hc Nha Trang, lp k63-MMT. </string>
+	<string name="introduce_myseft_string">Introduce Myseft</string>
+	<string name="this_project_made_in_24_03_2024_24___03___2024_12_00_cat_string">This project made in 24/03/202424 / 03 / 2024  12:00 CAT</string>
+	<string name="watch_trailer_string">Watch Trailer</string>
+	<string name="life_of_callitrichids_string">Life of Callitrichids</string>
+	<string name="lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua__tristique_senectus_et__string">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique senectus et.</string>
+	<string name="penguin_migrations_string">Penguin Migrations</string>
+	<string name="lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua__tristique_senectus_et__ek1_string">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tristique senectus et.</string>
+	<string name="the_trimboli_route_string">The Trimboli Route</string>
+	<string name="join_us_this_weekend_as_we_embark_on_an_exclusive_documentary_journey_along_the_breathtaking_trimboli_route__discover_the_allure_of_this_hiker_s______string">Join us this weekend as we embark on an exclusive documentary journey along the breathtaking Trimboli route. Discover the allure of this hikers.....</string>
+</resources>

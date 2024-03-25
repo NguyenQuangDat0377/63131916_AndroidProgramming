@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- hero colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__hero_ek2_color">#593535</color>
+	<color name="_bg__navigation_bar_ek1_color">#000000</color>
+	<color name="ellipse_2_color">#ffffff</color>
+	<color name="xin_ch_o_t_i_t_n_nguy_n_quang___t_hi_n__ang_h_c_t_i_tr__ng___i_h_c_nha_trang__l_p_k63_mmt__color">#EEEEEE</color>
+	<color name="rectangle_3_color">#FFCC00</color>
+	<color name="lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua__tristique_senectus_et__color">#505050</color>
+</resources>

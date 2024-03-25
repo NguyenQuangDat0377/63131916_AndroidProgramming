@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".MainActivity">
+
+    <!-- Logo -->
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logo_image"
+        android:contentDescription="@string/logo_content_description"/>
+
+    <!-- Introduce Myself TextView -->
+    <TextView
+        android:id="@+id/introduceTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logoImageView"
+        android:layout_marginTop="20dp"
+        android:text="@string/introduce_myself"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"/>
+
+    <!-- Watch Trailer Button -->
+    <Button
+        android:id="@+id/watchTrailerButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/introduceTextView"
+        android:layout_marginTop="20dp"
+        android:text="@string/watch_trailer_button"
+        android:background="@drawable/custom_button_yellow"
+        android:textColor="@android:color/black"
+        android:layout_centerHorizontal="true"/>
+
+    <!-- This project made in 24/03/2024 -->
+    <TextView
+        android:id="@+id/madeInTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/watchTrailerButton"
+        android:layout_marginTop="20dp"
+        android:text="@string/made_in_text"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"/>
+
+    <!-- Facebook Logo -->
+    <ImageView
+        android:id="@+id/facebookImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/madeInTextView"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:src="@drawable/facebook_logo"
+        android:contentDescription="@string/facebook_logo_content_description"/>
+
+    <!-- Instagram Logo -->
+    <ImageView
+        android:id="@+id/instagramImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/madeInTextView"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/instagram_logo"
+        android:contentDescription="@string/instagram_logo_content_description"/>
+
+    <!-- Twitter Logo -->
+    <ImageView
+        android:id="@+id/twitterImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/madeInTextView"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/twitter_logo"
+        android:contentDescription="@string/twitter_logo_content_description"/>
+
+    <!-- Random Nature Images -->
+    <!-- Add your nature images here to fill the remaining space -->
+</RelativeLayout>
